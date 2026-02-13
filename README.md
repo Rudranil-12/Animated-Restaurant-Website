@@ -61,3 +61,10 @@ npm i react-icons
 
 ---
 
+## ⭐ Support
+If you find this repository helpful:
+- Give it a ⭐
+
+---
+
+Feel free to explore. Let's grow together! 😊
