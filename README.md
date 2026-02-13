@@ -18,3 +18,13 @@ This project focuses on clean UI design, smooth animations, and modern layout st
 - 🎯 Reusable Components Structure
 
 ---
+
+## 🛠️ Tech Stack
+
+- ReactJS
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- Vite (if you used Vite)
+
+---
