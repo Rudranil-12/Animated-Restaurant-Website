@@ -67,4 +67,4 @@ If you find this repository helpful:
 
 ---
 
-Feel free to explore. Let's grow together! 😊
+This project is not open-source.
