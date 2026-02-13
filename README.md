@@ -54,3 +54,10 @@ npm run dev
 npm install motion
 
 ---
+
+## React Icons Installation
+
+npm i react-icons
+
+---
+
