@@ -28,3 +28,29 @@ This project focuses on clean UI design, smooth animations, and modern layout st
 - Vite (if you used Vite)
 
 ---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+git clone https://github.com/Rudranil-12/Animated-Restaurant-Website.git
+
+### 2️⃣ Navigate to Project Folder
+
+cd Animated-Restaurant-Website
+
+### 3️⃣ Install Dependencies
+
+npm install
+
+### 4️⃣ Run Development Server
+
+npm run dev
+
+---
+
+## 📦 Framer Motion Installation
+
+npm install motion
+
+---
